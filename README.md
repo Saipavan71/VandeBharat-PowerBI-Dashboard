@@ -31,4 +31,4 @@ This project is a Power BI dashboard analysis of Vande Bharat Express operations
 - Tracked occupancy trends over months
 
 ## Dashboard Preview
-(Add dashboard screenshot here after uploading to GitHub)
+<img width="670" height="377" alt="Dashboard_screenshot" src="https://github.com/user-attachments/assets/1622ab0b-7da3-4d41-a6ea-0f73139059c7" />
